@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DCAB3479-5784-4D77-B0EE-5EAC73233BA9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC94F448-2ABB-4E2C-8B79-CFE67C44E058"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsReader/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEEEA89B-B772-4AB0-9546-79E4F73A0B10"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsReader/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FEEEA89B-B772-4AB0-9546-79E4F73A0B10 - 39ca93e0d7bf9e6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsReader.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilreddy/Desktop/Apolis/Week6/NewsReader/NewsReader/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "261">
+               </Location>
+               <Location
+                  uuid = "FEEEA89B-B772-4AB0-9546-79E4F73A0B10 - 6076d55a2827af70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, NewsReader.NewsArticle, NewsReader.HomeCollectionViewCell) -&gt; () in NewsReader.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilreddy/Desktop/Apolis/Week6/NewsReader/NewsReader/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0496729E-0724-4429-B643-0D3491933B99"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsReader/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0496729E-0724-4429-B643-0D3491933B99 - 39ca93e0d7bf9e6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsReader.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilreddy/Desktop/Apolis/Week6/NewsReader/NewsReader/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1519">
+               </Location>
+               <Location
+                  uuid = "0496729E-0724-4429-B643-0D3491933B99 - 5617c4bc41bb8618"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (RxSwift.Event&lt;NewsReader.NewsArticle&gt;) -&gt; () in NewsReader.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilreddy/Desktop/Apolis/Week6/NewsReader/NewsReader/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "143">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DD81C3F-8B0A-4B1C-8BF7-FAAF39E7C49B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsReader/APIHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "callAPIFromApiHandler(withURLString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3DD81C3F-8B0A-4B1C-8BF7-FAAF39E7C49B - f9bfc8701a84f52b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsReader.APIHandler.callAPIFromApiHandler(withURLString: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Optional&lt;Foundation.Data&gt;&gt;"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilreddy/Desktop/Apolis/Week6/NewsReader/NewsReader/APIHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  uuid = "3DD81C3F-8B0A-4B1C-8BF7-FAAF39E7C49B - ff98f5ec5f414f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift.AnyObserver&lt;Swift.Optional&lt;Foundation.Data&gt;&gt;) -&gt; RxSwift.Disposable in NewsReader.APIHandler.callAPIFromApiHandler(withURLString: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Optional&lt;Foundation.Data&gt;&gt;"
+                  moduleName = "NewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilreddy/Desktop/Apolis/Week6/NewsReader/NewsReader/APIHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "181">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A13523C7-B21D-4286-B3DE-4ACB960205A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsReader/APIHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "callAPIFromApiHandler(withURLString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
